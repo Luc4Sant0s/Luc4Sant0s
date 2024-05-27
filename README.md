@@ -1,4 +1,4 @@
-![Texto alternativo caso imagem não esteja disponível](https://i.pinimg.com/564x/7f/04/ec/7f04ec2bcb3541f89ef5c24d62b9a295.jpg)
+![Texto alternativo caso imagem não esteja disponível](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2Frepeater-gifs-swirl--710654016198855959%2F&psig=AOvVaw0QzHxXwO-2v1PbQic_zFVG&ust=1716855265846000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCKjfi7TGrIYDFQAAAAAdAAAAABAQ)
 ## Hi there 👋
 
 <!--
