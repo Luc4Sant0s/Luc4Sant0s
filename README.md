@@ -1,4 +1,4 @@
-![Texto alternativo caso imagem não esteja disponível](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FRicmaloy&psig=AOvVaw1E9cDtCRzXhv-VKamx_zbK&ust=1716854832806000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCLD13ebErIYDFQAAAAAdAAAAABAE)
+![Texto alternativo caso imagem não esteja disponível](https://www.google.com/url?sa=i&url=https%3A%2F%2Fblog.jitter.video%2Fperfectly-looped-gifs%2F&psig=AOvVaw279XZqD32xfvyFKCfgOTqt&ust=1716855041214000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCMjj3sjFrIYDFQAAAAAdAAAAABAw)
 ## Hi there 👋
 
 <!--
